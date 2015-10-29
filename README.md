@@ -280,7 +280,6 @@ public static int lisSize(int[] a) {
 * How to find memory leak. (Memory snapshot diff).
 * Profiling: sampling and instrumentation.
 * Regular expressions. (Examples)
-* XPath* 
 * What are your goals to work in our company? (3 categories: professional, financial, social)
 * What is *virtualization*? 
 * What is total/partial order?
